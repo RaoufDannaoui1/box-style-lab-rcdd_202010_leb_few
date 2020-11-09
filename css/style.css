@@ -5,13 +5,12 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
-}
-body{
+
   background-repeat: no-repeat;
   background-size: cover;
   background-image:  url("http://3.bp.blogspot.com/-WmnQBz-v8rE/WZ3mS_hY_nI/AAAAAAAAGO0/hi-uVH5ZOdwS7yCAJrKT3-AEOEZ4_IC_gCK4BGAYYCw/s1600/r6s-ela.jpg");
-
 }
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
